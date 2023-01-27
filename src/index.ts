@@ -7,7 +7,7 @@
  *
  */
 
-import type { Client } from "discord.js"
+import { Client } from "discord.js"
 import * as dotenv from "dotenv"
 
 dotenv.config()
